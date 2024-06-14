@@ -1,0 +1,12 @@
+a=56
+b=87
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a%b)
+print(a**2)
+r=pow(10,2)
+print(r)
+print(87/10)
+print(87%10)
